@@ -5,7 +5,10 @@
 This is Nextjs Setup With TypeScript and Tailwindcss
 
 ## Install Dependencies
-
+First, Clone repo and install dependencies
+```bash
+git clone https://github.com/Peter3Khalil/Setup_Nextjs_Project.git
+```
 ```bash
 npm install
 # or
@@ -14,7 +17,7 @@ yarn install
 pnpm install
 ```
 ## Getting Started
-First,run the development server:
+Then,run the development server:
 ```bash
 npm run dev
 # or
